@@ -38,11 +38,15 @@ CoastWarn is the long play. It does not solve revenue tomorrow.
 
 ## Reference: Toptal Application Talking Points
 
+> DRAFT STRUCTURE ONLY. The metrics below (40 percent, sub-100ms, hundreds of thousands of daily queries) are placeholders showing the shape of a strong answer. Replace every one with a real figure before submitting anything.
+
 1. Led complex Tableau-to-Power BI migrations at enterprise scale, managing cross-functional teams and delivering data pipeline architecture serving hundreds of thousands of daily queries with zero downtime.
 2. Designed and optimized custom LLM inference stacks using local models and edge deployment, reducing cloud infrastructure costs by 40 percent while maintaining sub-100-millisecond latency for production workloads.
 3. Architected Snowflake data warehouses for government and public sector clients, implementing security frameworks and performance optimization that enabled real-time analytics across distributed teams.
 
 ## Reference: Contract Platform Profile Summary
+
+> DRAFT STRUCTURE ONLY. The years of experience and the skills list below are placeholders. Confirm each one against your actual record before publishing this to Toptal, Upwork, or Gun.io.
 
 Senior AI Infrastructure and Data Architecture Engineer with 20 years of software development experience. Specialized in optimizing custom enterprise AI models, building local inference stacks, and designing scalable data pipelines.
 
